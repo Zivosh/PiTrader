@@ -23,6 +23,7 @@ pip3 install -U binance
 pip3 install -U python-binance
 pip3 install -U cbpro
 pip3 install -U numpy
+pip3 install -U views
 
 sudo chmod +x RunBTCEUR.sh
 sudo chmod +x RunETHEUR.sh
