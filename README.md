@@ -6,6 +6,7 @@ sudo apt-get install git
 git clone https://www.github.com/Zivosh/PiTrader
 
 cd PiTrader
+
 chmod -x install.sh
 
 sudo ./install.sh
