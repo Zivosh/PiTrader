@@ -24,4 +24,7 @@ pip3 install -U python-binance
 pip3 install -U cbpro
 pip3 install -U numpy
 
+sudo chmod +x RunBTCEUR.sh
+sudo chmod +x RunETHEUR.sh
+
 exit 0
