@@ -29,6 +29,6 @@ sudo chmod +x RunETHEUR.sh
 
 sudo rm /usr/bin/python
 sudo ln -s /usr/bin/python3 /usr/bin/python
-ls -l /usr/bin/python. lrwxrwxrwx 1 root root 16 Jan 18 11:04 /usr/bin/python -> /usr/bin/python3
+
 
 exit 0
