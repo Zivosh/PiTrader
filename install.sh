@@ -5,7 +5,7 @@ echo "======================================="
 echo "=======Installing requirements ========"
 echo "======================================="
 
-read -r -p "This script will install all the necessary modules etc on your Pi so you can run the bot"
+read -r "This script will install all the necessary modules etc on your Pi so you can run the bot"
 
 sudo apt-get update
 
