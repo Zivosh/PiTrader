@@ -16,7 +16,6 @@ pip3 install --upgrade pip
 pip3 install -U urllib3
 pip3 install -U pandas
 pip3 install -U requests
-pip3 install -U random
 pip3 install -U statsmodels
 pip3 install -U matplotlib
 pip3 install -U binance
