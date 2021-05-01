@@ -10,7 +10,7 @@ read -r -p "This script will install all the necessary modules etc on your Pi so
 sudo apt-get update
 
 sudo apt-get upgrade -Y
-
+sudo apt-get install libatlas-base-dev
 pip3 install --upgrade pip
 
 pip3 install -U urllib3
