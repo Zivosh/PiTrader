@@ -3,14 +3,9 @@
         "api_key" : "<Insert API>",
         "api_secret" : "<Insert secret>",
         "api_pass" : "<Insert passphrase>",
-        "config" : {
-        	"cryptoMarket" : "BTC",
-        	"fiatMarket" : "EUR",
-        	"live" : 1,
-        	"sellatloss" : 0,
-	      "telegram" : {
-    		  "token" : "<Insert token>",
-    		  "client_id" : "<insert id>"
+	"telegram" : {
+    		"token" : "<Insert token>",
+    		"client_id" : "<insert id>"
 	      }
         }
 	
