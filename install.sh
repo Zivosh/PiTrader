@@ -1,4 +1,5 @@
 #!/bin/bash
+
 clear
 
 echo "======================================="
@@ -7,11 +8,7 @@ echo "======================================="
 
 read -r "This script will install all the necessary modules etc on your Pi so you can run the bot"
 
-sudo apt-get update
-
-sudo apt-get upgrade -y
 sudo apt-get install libatlas-base-dev
-pip3 install --upgrade pip
 
 pip3 install -U urllib3
 pip3 install -U pandas
