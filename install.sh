@@ -24,11 +24,4 @@ pip3 install -U cbpro
 pip3 install -U numpy
 pip3 install -U views
 
-sudo chmod +x RunBTCEUR.sh
-sudo chmod +x RunETHEUR.sh
-
-sudo rm /usr/bin/python
-sudo ln -s /usr/bin/python3 /usr/bin/python
-
-
 exit 0
