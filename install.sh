@@ -21,4 +21,6 @@ pip3 install -U cbpro
 pip3 install -U numpy
 pip3 install -U views
 
+chmod +x Run.sh
+
 exit 0
