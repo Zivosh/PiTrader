@@ -7,7 +7,7 @@ git clone https://www.github.com/Zivosh/PiTrader
 
 cd PiTrader
 
-chmod -x install.sh
+chmod +x install.sh
 
 sudo ./install.sh
 
