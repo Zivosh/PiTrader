@@ -11,10 +11,6 @@ from models.TradingAccount import TradingAccount
 from models.Telegram import Telegram
 from views.TradingGraphs import TradingGraphs
 
-with open('config.json') as config_file:
-    config = json.load(config_file)
-model = AuthAPI(config['api_key'], config['api_secret'], config['api_pass'], config['api_url'])
-
 """Python Crypto Bot consuming Coinbase Pro or Binance APIs"""
 
 
